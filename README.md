@@ -1,6 +1,6 @@
-##crm-conector
+## crm-conector
 
-#####Classe gerada para buscar informações do CRM do médico em PHP. 
+#### Classe gerada para buscar informações do CRM do médico em PHP. 
 
 Para usar o conector:
  
